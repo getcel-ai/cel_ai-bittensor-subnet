@@ -1,4 +1,3 @@
-# Cel AI
 ![Cel AI Subnet 127](./banner.png)
 
 # Cel AI Subnet 127: Wellness Meets Intelligence & Community Commerce
